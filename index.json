@@ -1,0 +1,11 @@
+{
+  "org": "readthedocs",
+  "repo": "sphinx-hoverxref",
+  "versions": [
+    {
+      "commit": "96ff768d56367d103056ebdc8fdaece10d0a1d99",
+      "tag": "",
+      "parsed_at": "2026-10-19T10:54:26.955702+00:00"
+    }
+  ]
+}
